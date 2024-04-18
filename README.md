@@ -1,5 +1,7 @@
 # London-Bike-Ride-Dataset
 
+Tableau notebook is included in this repo for an interactive dashboard experience. The current version of the dashboard can be view here: [Link](https://public.tableau.com/app/profile/elvis.ye7575/viz/LondonBikeRidesDashboard_17134163388450/Dashboard1)
+
 Dataset provided by Kaggle: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ## About the Dataset
